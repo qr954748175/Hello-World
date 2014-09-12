@@ -6,5 +6,5 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.
 =======
 Git tracks changes of filescr.
-Creating a new branch is quick  and simple.
+Creating a new branch is quick  AND simple.
 >>>>>>> feature1
